@@ -1,4 +1,4 @@
-# Deep Generative Analysis of Ocular Health
+# Ocular-Health-Analysis-and-Generation
 
 This project delves into the deep learning-based analysis of ocular health using color fundus images. It encompasses two main aspects: discriminative classification of ocular conditions using EfficientNet, and generative image-to-image translation using CycleGAN to transform diseased eye images into healthy-looking ones.
 
